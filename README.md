@@ -1,4 +1,4 @@
-# Agar.io(세포키우기 게임)
+# Dud.io(세포키우기 게임)
 
 https://c-hex.github.io/Agar.io/
 
