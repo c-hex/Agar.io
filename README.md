@@ -1,6 +1,6 @@
 # Dud.io(세포키우기 게임)
 
-PLAY https://c-hex.github.io/Dud.io/
+<b>PLAY</b> https://c-hex.github.io/Dud.io/
 
 구현 완료
 - 플레이어 생성
