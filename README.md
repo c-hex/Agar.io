@@ -1,8 +1,8 @@
 # Dud.io(세포키우기 게임)
 
-https://c-hex.github.io/Agar.io/
+https://c-hex.github.io/Dud.io/
 
-현재 구현한 기능
+구현 완료
 - 플레이어 생성
 - 플레이어 이동
 - 먹이 위치 및 색상 랜덤 생성
