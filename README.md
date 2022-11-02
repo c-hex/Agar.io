@@ -1,10 +1,12 @@
 # Dud.io(세포키우기 게임)
 
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+
 유니티로 제작한 세포키우기 게임입니다.
 
 🎮 <b>PLAY</b> https://c-hex.github.io/Dud.io/ <br>
-🕹 W A S D & Arrow key -> <b>Move</b><br>
-🕹 Scroll -> <b>Zoom IN/OUT</b>
+🕹 WASD & Arrow key - <b>Move</b><br>
+🕹 Scroll - <b>Zoom IN/OUT</b>
 ![image](https://user-images.githubusercontent.com/89019310/199372886-c092fcec-ff2c-40ec-9718-f0d835f0f0f1.png)
 
 
